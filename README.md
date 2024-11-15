@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since el 2022<br>📚 I'm currently learning JS y React<br>🎯 Goals: Mi primer empleo como dev<br>🎲 Fun fact: me gustan las bicis MTB</p>
+<p align="center">✨ Creating bugs since el 2022<br>📚 I'm currently learning JS y React<br>🎯 Goals: Mi primer empleo como dev<br>🎲 Fun fact: me gustan las bicis MTB</p>
 
 ###
 
